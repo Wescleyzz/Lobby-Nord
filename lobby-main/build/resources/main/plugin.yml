@@ -1,0 +1,5 @@
+name: Lobby
+main: br.saintmc.lobby.Lobby
+version: 1.0-SNAPSHOT
+authors: [LuisMaartins, bumaruf]
+depend: [Commons]
